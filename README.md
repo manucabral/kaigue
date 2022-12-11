@@ -1,2 +1,2 @@
 # kaigue
-A Virtual Assistant for Windows
+A Virtual Assistant for Windows (for student purposes)
